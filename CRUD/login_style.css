@@ -49,3 +49,6 @@ body{
     margin:7px 0;
     color:white;
 }
+.btn:hover{
+    background-color:skyblue;
+}
